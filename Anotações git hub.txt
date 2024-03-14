@@ -1,0 +1,9 @@
+. Comandos git para envio ao repositório git hub 
+
+1. git add .
+2. git commit -m "msg"
+3. git push origin main
+
+. Clonando um repositório do git hub para minha máquina
+
+git clone End repositório
